@@ -73,5 +73,24 @@
         }
       ]
     }
+    {
+      "id": "supervised-ml",
+      "title": "Intro to Supervised ML",
+      "description": "Supervised learning pipeline: data prep, training, evaluation, and model export using scikit-learn.",
+      "path": "assignments/supervised-ml",
+      "dueDate": "2026-07-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
+    }
   ]
 }
